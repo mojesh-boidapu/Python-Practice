@@ -15,37 +15,37 @@ Python code.
   ---------------------------------------------------------------
  No.   Program                       Description
 ---------------------------- ----------------------------- ------
-   1  `headsandtails.py`            Simulates a coin toss
+   1  `Heads_or_Tails.py`          Simulates a coin toss
                                    and randomly displays
                                    Heads or Tails.
 
-   2  `rollercoaster_ticket.py`     Checks ride
+   2  `Rollercoaster_Ticket.py`    Checks ride
                                    eligibility and
                                    calculates the ticket
                                    price based on the
                                    entered details.
 
-   3  `pizza_order_program.py`      Calculates a pizza
+   3  `Pizza_Order.py`             Calculates a pizza
                                    bill based on the
                                    selected size and
                                    optional toppings.
 
-   4  `love_calculator.py`          Counts selected
+   4  `Love_Calculator.py`          Counts selected
                                    letters in two names
                                    to produce a playful
                                    compatibility score.
 
-   5  `bmi_calculator.py`           Calculates Body Mass
+   5  `BMI_Calculator.py`           Calculates Body Mass
                                    Index (BMI) from
                                    weight and height and
                                    displays the BMI
                                    category.
 
-   6  `leap_year.py`                Checks whether a
+   6  `Leap_year.py`                Checks whether a
                                    given year is a leap
                                    year.
 
-   7  `fizzbuzz.py`                 Prints numbers in a
+   7  `FizzBuzz.py`                 Prints numbers in a
                                    range, replacing
                                    multiples of 3 with
                                    Fizz, multiples of 5
@@ -53,51 +53,52 @@ Python code.
                                    multiples of both
                                    with FizzBuzz.
 
-   8  `days_in_month.py`            Displays the number
+   8  `Days_in_Month.py`           Displays the number
                                    of days in a selected
                                    month, taking leap
                                    years into account.
 
-   9  `paint_wall_basic.py`         Calculates the paint
+   9  `Paint_The_Wall.py`          Calculates the paint
                                    required for a wall
                                    using its dimensions
                                    and the selected
                                    coverage rate.
 
-  10  `prime_checker.py`            Checks whether a
+  10  `Prime_Number_Checker.py`    Checks whether a
                                    given number is
                                    prime.
 
-  11  `student_grades.py`           Determines a
+  11  `Student_Grades.py`          Determines a
                                    student's grade based
                                    on their marks.
 
-  12  `student_records.py`          Accepts student
+  12  `Student_Records.py`         Accepts student
                                    details and stores
                                    them as records while
                                    the program runs.
 
-  13  `pin_extractor.py`            Extracts a numeric
+  13  `Pin_Extractor.py`            Extracts a numeric
                                    code from poems by
                                    counting words at
                                    specific positions in
                                    each line.
 
-  14 `calculator.py`               Performs basic
+  14 `Basic_Calculator.py`               Performs basic
                                    arithmetic operations
                                    using the operator
                                    selected by the user.
 
-  15 `housie.py`                   Generates random
+  15 `Housie.py`                   Generates random
                                    Housie numbers from 1
                                    to 90.
 
-  16 `medical_data_validator.py`   Validates medical
+  16 `Medical_Data_Validator.py`   Validates medical
                                    record fields such as
                                    ID format, age,
                                    gender, diagnosis,
                                    and medication
                                    details.
+                                   
   ---------------------------------------------------------------------
 
 ## Technologies Used
